@@ -50,7 +50,7 @@ class IndexController extends Controller {
             </h1>
             <p class="typed-text">
               {tr(
-                'Welcome to the Monash University Capture the Flag Competition! By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
+                'Welcome to the Monash University Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
               )}
             </p>
             <div class="fb-actionable">
